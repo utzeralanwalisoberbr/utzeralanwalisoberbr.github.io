@@ -2,6 +2,7 @@ facebook.com, 4914883765261788, DIRECT, c3e20eee3f780d68
 facebook.com, 457193946112572, DIRECT, c3e20eee3f780d68
 google.com, pub-2890148263342361, DIRECT, f08c47fec0942fa0
 google.com, pub-2467271177226938, DIRECT, f08c47fec0942fa0
+google.com, pub-4376066491668870, DIRECT, f08c47fec0942fa0
 pangleglobal.com, 5004532, DIRECT
 applovin.com, 435a52445e79aa25a37e533b2898192f, DIRECT
 
